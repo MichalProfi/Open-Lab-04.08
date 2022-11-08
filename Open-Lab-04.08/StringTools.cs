@@ -6,7 +6,7 @@ namespace Open_Lab_04._08
     {
         public string[] IsFourLetters(string[] strings)
         {
-            throw new NotImplementedException();
+            return strings.Where(x => x.Length == 4).ToArray();
         }
     }
 }
