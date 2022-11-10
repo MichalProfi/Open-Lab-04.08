@@ -1,6 +1,7 @@
 ﻿using System;
 ﻿using System.Linq;
 
+
 namespace Open_Lab_04._08
 {
     public class StringTools
